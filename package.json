@@ -1,8 +1,9 @@
 {
-  "name": "umi-web-template",
+  "name": "arvinxx-website",
   "version": "1.0.0",
   "private": true,
-  "description": "An out-of-box UI solution for enterprise applications",
+  "description": "空谷的个人网站",
+  "repository": "https://github.com/arvinxx/website.git",
   "scripts": {
     "start": "umi dev",
     "start:no-mock": "cross-env MOCK=none umi dev",
