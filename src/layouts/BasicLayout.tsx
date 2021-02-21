@@ -18,6 +18,9 @@ import Authorized from '@/utils/Authorized';
 import RightContent from '@/components/GlobalHeader/RightContent';
 import type { ConnectState } from '@/models/connect';
 import { getMatchMenu } from '@umijs/route-utils';
+
+import styles from "./BasicLayout.less";
+
 import logo from '../assets/logo.svg';
 
 const noMatch = (
@@ -58,7 +61,7 @@ const menuDataRender = (menuList: MenuDataItem[]): MenuDataItem[] =>
 
 const defaultFooterDom = (
   <DefaultFooter
-    copyright={`2020-${new Date().getFullYear()} 空谷`}
+    copyright={`2020-${new Date().getFullYear()} 空谷保留所有权利`}
     links={[
       {
         key: 'Blog',
@@ -124,6 +127,7 @@ const BasicLayout: React.FC<BasicLayoutProps> = (props) => {
       formatMessage={formatMessage}
       {...props}
       {...settings}
+      className={styles.container}
       onCollapse={handleMenuCollapse}
       onMenuHeaderClick={() => history.push('/')}
       menuItemRender={(menuItemProps, defaultDom) => {
