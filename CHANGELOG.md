@@ -1,5 +1,36 @@
 # Changelog
 
+## [1.0.2](https://github.com/arvinxx/footprint/compare/v1.0.1...v1.0.2) (2021-02-21)
+
+
+### 🎫 杂项
+
+* 修正 ejs 格式问题 ([b411f79](https://github.com/arvinxx/footprint/commit/b411f79))
+* 清理无用代码 ([68e3880](https://github.com/arvinxx/footprint/commit/68e3880))
+* 清理无用代码 ([28ad82d](https://github.com/arvinxx/footprint/commit/28ad82d))
+* 补充 vercel 开发依赖 ([7c6ae17](https://github.com/arvinxx/footprint/commit/7c6ae17))
+* 调整 api 配置项 ([96770a8](https://github.com/arvinxx/footprint/commit/96770a8))
+* 调整依赖 ([862d610](https://github.com/arvinxx/footprint/commit/862d610))
+* 调整依赖 ([accd84d](https://github.com/arvinxx/footprint/commit/accd84d))
+
+
+### 🐛 修复
+
+* 修正 api 报错的 bug ([a25e676](https://github.com/arvinxx/footprint/commit/a25e676))
+* 更新页脚内容 ([cafd48c](https://github.com/arvinxx/footprint/commit/cafd48c))
+
+
+### 💄 样式
+
+* 修改视觉元素 ([f7a91c1](https://github.com/arvinxx/footprint/commit/f7a91c1))
+* 调整主题色和加载样式 ([d97530c](https://github.com/arvinxx/footprint/commit/d97530c))
+
+
+### 📝 文档
+
+* 更新文档 ([2e7c872](https://github.com/arvinxx/footprint/commit/2e7c872))
+* 更新文档 ([8e937ba](https://github.com/arvinxx/footprint/commit/8e937ba))
+
 ## [1.0.1](https://github.com/arvinxx/website/compare/v1.0.0...v1.0.1) (2021-02-21)
 
 
