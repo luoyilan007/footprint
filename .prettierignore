@@ -1,4 +1,5 @@
 **/*.svg
+**/*.ejs
 .umi
 .umi-production
 /dist
