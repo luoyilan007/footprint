@@ -1,0 +1,82 @@
+@import '~antd/es/style/themes/default.less';
+
+@-webkit-keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.body {
+  //height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3f4f6;
+}
+
+.ctnr {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  display: flex;
+  background-color: #f3f4f6;
+}
+
+.ldr {
+  //display: -webkit-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  width: 36px;
+  height: 36px;
+  margin: auto;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-box-align: center;
+}
+
+.ldrBlk {
+  width: 35%;
+  height: 35%;
+  background-color: @primary-color;
+  -webkit-animation: pulse 0.75s ease-in infinite alternate;
+  animation: pulse 0.75s ease-in infinite alternate;
+}
+
+.anDelay {
+  -webkit-animation-delay: 0.75s;
+  animation-delay: 0.75s;
+}
+
+:global {
+  #nprogress .bar {
+    background: @primary-color;
+  }
+
+  #nprogress .peg {
+    box-shadow: 0 0 10px @primary-color, 0 0 5px @primary-color;
+  }
+
+  #nprogress .spinner-icon {
+    border-top-color: @primary-color;
+    border-left-color: @primary-color;
+    border-radius: 50%;
+  }
+}
