@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.3](https://github.com/arvinxx/footprint/compare/v1.0.2...v1.0.3) (2021-02-21)
+
+
+### 👷 构建系统
+
+* 修正 api 类型定义问题 ([2db724f](https://github.com/arvinxx/footprint/commit/2db724f))
+
+
+### 💄 样式
+
+* 修复加载样式 ([379c689](https://github.com/arvinxx/footprint/commit/379c689))
+* 修正 antd icon 位置下移的 bug ([6a9d7e3](https://github.com/arvinxx/footprint/commit/6a9d7e3))
+
 ## [1.0.2](https://github.com/arvinxx/footprint/compare/v1.0.1...v1.0.2) (2021-02-21)
 
 
