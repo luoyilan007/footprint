@@ -16,9 +16,10 @@ export default async (request: VercelRequest, response: VercelResponse) => {
   }
   const client = api(process.env.ZOTERO_AUTH_KEY).library('user', 4485835);
 
-  response.json({});
-
   const searchResult = await client.searches(bookKey).get<Zotero.SearchData, false>();
 
-  return { raw: searchResult.raw.data };
+  const raw = searchResult.raw.data;
+  response.json(raw);
+
+  return { raw };
 };
