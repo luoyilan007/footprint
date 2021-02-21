@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.1](https://github.com/arvinxx/website/compare/v1.0.0...v1.0.1) (2021-02-21)
+
+
+### 🎫 杂项
+
+* 清理无用依赖 ([9cc17f4](https://github.com/arvinxx/website/commit/9cc17f4))
+
+
+### 👷 构建系统
+
+* 修正 api 丢失模块的 bug ([e5c5efb](https://github.com/arvinxx/website/commit/e5c5efb))
+
 # 1.0.0 (2021-02-21)
 
 
