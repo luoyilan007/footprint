@@ -1,5 +1,5 @@
 import React from 'react';
-import { Spin } from 'antd';
+import PageLoading from '@/components/PageLoading';
 import isEqual from 'lodash/isEqual';
 import { isComponentClass } from './Secured';
 // eslint-disable-next-line import/no-cycle
@@ -77,20 +77,6 @@ export default class PromiseRender<T, K> extends React.Component<
     const { component: Component } = this.state;
     const { ok, error, promise, ...rest } = this.props;
 
-    return Component ? (
-      <Component {...rest} />
-    ) : (
-      <div
-        style={{
-          width: '100%',
-          height: '100%',
-          margin: 'auto',
-          paddingTop: 50,
-          textAlign: 'center',
-        }}
-      >
-        <Spin size="large" />
-      </div>
-    );
+    return Component ? <Component {...rest} /> : <PageLoading />;
   }
 }
