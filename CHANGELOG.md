@@ -1,3 +1,45 @@
+# Changelog
+
+# 1.0.0 (2021-02-21)
+
+
+### ✅ 测试
+
+* 修正测试 ([32a1625](https://github.com/arvinxx/website/commit/32a1625))
+* 补充书单测试 ([9904bba](https://github.com/arvinxx/website/commit/9904bba))
+
+
+### ✨ 新特性
+
+* 添加 Zotero 书单 API ([1ce8962](https://github.com/arvinxx/website/commit/1ce8962))
+
+
+### 🎫 杂项
+
+* 优化部署配置 ([6782c32](https://github.com/arvinxx/website/commit/6782c32))
+* 清理无用代码 ([55eb62f](https://github.com/arvinxx/website/commit/55eb62f))
+
+
+### 🐛 修复
+
+* 补充 api 返回数据 ([a4f8a09](https://github.com/arvinxx/website/commit/a4f8a09))
+
+
+### 💄 样式
+
+* 调整左侧侧边栏主题样式 ([83998d6](https://github.com/arvinxx/website/commit/83998d6))
+
+
+### 📝 文档
+
+* 修改文档 ([2400edb](https://github.com/arvinxx/website/commit/2400edb))
+
+
+### 🔧 持续集成
+
+* 优化 ci 缓存配置 ([5d8627a](https://github.com/arvinxx/website/commit/5d8627a))
+* 补回 yarn.lock ([01d8f7b](https://github.com/arvinxx/website/commit/01d8f7b))
+
 # 更新日志
 
 # 1.0.0 (2021-02-09)
