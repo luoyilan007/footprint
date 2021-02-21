@@ -5,5 +5,8 @@ module.exports = {
     page: true,
     REACT_APP_ENV: true,
   },
-  ignorePatterns: ["*.js"]
+  rules: {
+    '@typescript-eslint/method-signature-style': 0,
+  },
+  ignorePatterns: ['*.js'],
 };

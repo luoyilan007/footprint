@@ -1,4 +1,8 @@
+const { default: umiConfig } = require('@umijs/test/lib/createDefaultConfig/createDefaultConfig');
+
+const defaultConfig = umiConfig(process.cwd(), {});
+
 module.exports = {
-  testURL: 'http://localhost:8000',
-  verbose: false,
+  ...defaultConfig,
+  setupFiles: [...defaultConfig.setupFiles, 'dotenv/config'],
 };

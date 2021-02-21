@@ -22,6 +22,5 @@
       "@@/*": ["./src/.umi/*"]
     }
   },
-  "include": ["src", "types", "config", "mock/*", "api"],
-  "exclude": ["node_modules", "build", "dist", "scripts", "src/.umi/*", "webpack", "jest"]
+  "include": ["src", "types", "config", "mock", "api", "tests"]
 }

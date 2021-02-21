@@ -22,7 +22,12 @@ jobs:
         run: yarn
 
       - name: Code Check
-        run: yarn lint && yarn test
+        run: yarn lint
+
+      - name: Test
+        run: yarn test
+        env:
+          ZOTERO_AUTH_KEY: ${{ secrets.ZOTERO_AUTH_KEY }}
 
       - name: Release
         run: yarn release
