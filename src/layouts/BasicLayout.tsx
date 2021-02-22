@@ -1,8 +1,3 @@
-/**
- * Ant Design Pro v4 use `@ant-design/pro-layout` to handle Layout.
- * You can view component api by:
- * https://github.com/ant-design/ant-design-pro-layout
- */
 import type {
   MenuDataItem,
   BasicLayoutProps as ProLayoutProps,
@@ -19,7 +14,7 @@ import RightContent from '@/components/GlobalHeader/RightContent';
 import type { ConnectState } from '@/models/connect';
 import { getMatchMenu } from '@umijs/route-utils';
 
-import styles from "./BasicLayout.less";
+import styles from './BasicLayout.less';
 
 import logo from '../assets/logo.svg';
 
