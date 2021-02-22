@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.0.5](https://github.com/arvinxx/footprint/compare/v1.0.4...v1.0.5) (2021-02-22)
+
+
+### 🎫 杂项
+
+* 修正 lint ([49b912e](https://github.com/arvinxx/footprint/commit/49b912e))
+* 修正 lint 问题 ([8749dd5](https://github.com/arvinxx/footprint/commit/8749dd5))
+* 更新开发脚本 ([02514bf](https://github.com/arvinxx/footprint/commit/02514bf))
+* 调整 husky 依赖 ([448a201](https://github.com/arvinxx/footprint/commit/448a201))
+
+
+### 💄 样式
+
+* 优化标题样式 ([9a537b8](https://github.com/arvinxx/footprint/commit/9a537b8))
+* 优化标题样式 ([6f2b1c6](https://github.com/arvinxx/footprint/commit/6f2b1c6))
+* 修复加载样式 ([a2a0e27](https://github.com/arvinxx/footprint/commit/a2a0e27))
+
 ## [1.0.4](https://github.com/arvinxx/footprint/compare/v1.0.3...v1.0.4) (2021-02-21)
 
 
