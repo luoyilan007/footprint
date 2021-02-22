@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/arvinxx/footprint/compare/v1.0.5...v1.0.6) (2021-02-22)
+
+
+### 💄 样式
+
+* 优化标题样式 ([4fcc1ad](https://github.com/arvinxx/footprint/commit/4fcc1ad))
+
 ## [1.0.5](https://github.com/arvinxx/footprint/compare/v1.0.4...v1.0.5) (2021-02-22)
 
 
