@@ -89,7 +89,7 @@
     "@umijs/yorkie": "^2.0.3",
     "chalk": "^4.0.0",
     "commitlint": "^11.0.0",
-    "commitlint-config-gitmoji": "^2.2.1",
+    "commitlint-config-gitmoji": "^2.2.2",
     "cross-env": "^7.0.0",
     "dotenv": "^8.2.0",
     "enzyme": "^3.11.0",
