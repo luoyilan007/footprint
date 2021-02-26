@@ -1,7 +1,9 @@
 {
   "name": "api",
   "version": "1.0.0",
+  "license": "MIT",
   "dependencies": {
+    "umi-request": "^1.3.5",
     "zotero-api-client": "^0.33.0"
   },
   "devDependencies": {
