@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.1.0](https://github.com/arvinxx/footprint/compare/v1.0.6...v1.1.0) (2021-02-26)
+
+
+### ✨ 新特性
+
+* 添加股票实时查询接口 ([b4ea31f](https://github.com/arvinxx/footprint/commit/b4ea31f))
+
 ## [1.0.6](https://github.com/arvinxx/footprint/compare/v1.0.5...v1.0.6) (2021-02-22)
 
 
