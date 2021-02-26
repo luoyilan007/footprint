@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.1](https://github.com/arvinxx/footprint/compare/v1.1.0...v1.1.1) (2021-02-26)
+
+
+### 🎫 杂项
+
+* 给 api 补充 request 依赖 ([80d46dc](https://github.com/arvinxx/footprint/commit/80d46dc))
+
+
+### 👷 构建系统
+
+* **deps**: bump @ant-design/pro-layout from 6.14.0 to 6.14.4 ([1860649](https://github.com/arvinxx/footprint/commit/1860649))
+
 # [1.1.0](https://github.com/arvinxx/footprint/compare/v1.0.6...v1.1.0) (2021-02-26)
 
 
