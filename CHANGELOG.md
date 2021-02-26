@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/arvinxx/footprint/compare/v1.1.1...v1.1.2) (2021-02-26)
+
+
+### 👷 构建系统
+
+* **deps**: bump @ant-design/pro-descriptions from 1.5.1 to 1.6.2 ([eca71ca](https://github.com/arvinxx/footprint/commit/eca71ca))
+* **deps**: bump umi from 3.3.7 to 3.3.9 ([dde2eab](https://github.com/arvinxx/footprint/commit/dde2eab))
+
 ## [1.1.1](https://github.com/arvinxx/footprint/compare/v1.1.0...v1.1.1) (2021-02-26)
 
 
