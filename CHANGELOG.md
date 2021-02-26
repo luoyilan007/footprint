@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/arvinxx/footprint/compare/v1.1.2...v1.1.3) (2021-02-26)
+
+
+### 👷 构建系统
+
+* **deps**: bump @ant-design/pro-table from 2.29.0 to 2.30.2 ([f3fc5f4](https://github.com/arvinxx/footprint/commit/f3fc5f4))
+* **deps-dev**: bump typescript from 4.1.5 to 4.2.2 ([f56be3d](https://github.com/arvinxx/footprint/commit/f56be3d))
+
 ## [1.1.2](https://github.com/arvinxx/footprint/compare/v1.1.1...v1.1.2) (2021-02-26)
 
 
