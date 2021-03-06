@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.1.4](https://github.com/arvinxx/footprint/compare/v1.1.3...v1.1.4) (2021-03-06)
+
+
+### 🎫 杂项
+
+* 更新 release 配置项 ([3dd6cdc](https://github.com/arvinxx/footprint/commit/3dd6cdc))
+* 清理无用代码 ([a984559](https://github.com/arvinxx/footprint/commit/a984559))
+* 清理无用代码 ([378ff31](https://github.com/arvinxx/footprint/commit/378ff31))
+* 清理无用代码 ([6fd62d0](https://github.com/arvinxx/footprint/commit/6fd62d0))
+* 清理无用代码 ([af6e0c9](https://github.com/arvinxx/footprint/commit/af6e0c9))
+* 清理无用代码 ([febd878](https://github.com/arvinxx/footprint/commit/febd878))
+* 清理无用代码 ([c6d4763](https://github.com/arvinxx/footprint/commit/c6d4763))
+* 清理无用代码 ([876fa24](https://github.com/arvinxx/footprint/commit/876fa24))
+* 清理无用代码 ([505204a](https://github.com/arvinxx/footprint/commit/505204a))
+* 清理无用代码 ([4cf8ec0](https://github.com/arvinxx/footprint/commit/4cf8ec0))
+
+
+### 💄 样式
+
+* 调整header样式 ([f3b0aaf](https://github.com/arvinxx/footprint/commit/f3b0aaf))
+* 调整样式代码 ([b2a725a](https://github.com/arvinxx/footprint/commit/b2a725a))
+
+
+### wip
+
+* 尝试预览 pdf ([c4e02e8](https://github.com/arvinxx/footprint/commit/c4e02e8))
+
 ## [1.1.3](https://github.com/arvinxx/footprint/compare/v1.1.2...v1.1.3) (2021-02-26)
 
 
