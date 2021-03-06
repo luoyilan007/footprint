@@ -26,8 +26,6 @@ jobs:
 
       - name: Test
         run: yarn test
-        env:
-          ZOTERO_AUTH_KEY: ${{ secrets.ZOTERO_AUTH_KEY }}
 
       - name: Release
         run: yarn release
