@@ -6,15 +6,15 @@ type DefaultSettings = Partial<ProSettings> & {
 
 const proSettings: DefaultSettings = {
   navTheme: 'light',
-  // 拂晓蓝
   primaryColor: '#40c0e5',
-  layout: 'side',
-  contentWidth: 'Fluid',
-  fixedHeader: false,
+  layout: 'top',
+  contentWidth: 'Fixed',
+  headerHeight: 64,
+  fixedHeader: true,
   fixSiderbar: true,
-  colorWeak: false,
+
   title: '空谷的足迹',
-  pwa: false,
+  pwa: true,
   iconfontUrl: '',
 };
 
