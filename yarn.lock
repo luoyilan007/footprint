@@ -184,16 +184,16 @@
   dependencies:
     use-media-antd-query "^1.0.6"
 
-"@ant-design/pro-table@^2.30.3":
-  version "2.30.3"
-  resolved "https://registry.yarnpkg.com/@ant-design/pro-table/-/pro-table-2.30.3.tgz#d9feb2ca06e3d62654e2c2905d8ded16bf8f32c3"
-  integrity sha512-LggnsBFzxT5D/zN4tpUwV03eCgIhEyQT+5ngxeXRcSqPuYhCYgqMnrQtv1EylywTJ7WR1QJXersUgpdzB95zlA==
+"@ant-design/pro-table@^2.30.4":
+  version "2.30.4"
+  resolved "https://registry.yarnpkg.com/@ant-design/pro-table/-/pro-table-2.30.4.tgz#94b508fbf3c01c2603744b57ffb91a45635498f5"
+  integrity sha512-qb3uPkS7NwUxvCRadD9jLpN4NMBUTPEkrV7Io8HzEbQGkeJEbTGpbm+kgJbQ6qLyaK4c/+xCDsdGyErmpsRHAQ==
   dependencies:
     "@ant-design/icons" "^4.1.0"
-    "@ant-design/pro-field" "1.10.3"
-    "@ant-design/pro-form" "1.16.3"
-    "@ant-design/pro-provider" "1.4.6"
-    "@ant-design/pro-utils" "1.13.2"
+    "@ant-design/pro-field" "1.11.0"
+    "@ant-design/pro-form" "1.17.0"
+    "@ant-design/pro-provider" "1.4.7"
+    "@ant-design/pro-utils" "1.14.0"
     classnames "^2.2.6"
     moment "^2.24.0"
     omit.js "^2.0.2"
