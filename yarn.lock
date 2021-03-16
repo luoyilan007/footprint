@@ -2861,10 +2861,10 @@
   resolved "https://registry.npm.taobao.org/@types/parse-json/download/@types/parse-json-4.0.0.tgz?cache=0&sync_timestamp=1613380133657&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fparse-json%2Fdownload%2F%40types%2Fparse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
   integrity sha1-L4u0QUNNFjs1+4/9zNcTiSf/uMA=
 
-"@types/pdfjs-dist@^2.1.7":
-  version "2.1.7"
-  resolved "https://registry.npm.taobao.org/@types/pdfjs-dist/download/@types/pdfjs-dist-2.1.7.tgz#a92d94b9d699a93ab8a762839f7819dc04e96484"
-  integrity sha1-qS2UudaZqTq4p2KDn3gZ3ATpZIQ=
+"@types/pdfjs-dist@^2.7.0":
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@types/pdfjs-dist/-/pdfjs-dist-2.7.0.tgz#2fca369320ce87c0a0d09e1fc7840adb5ae7de68"
+  integrity sha512-/vA+U+SI68Gswv9UB12P3RdvhBlc8clEzL+myVCZpoZ3rNO/+U3lRaK/TdJYxKiMoK7u6Cune8JS9ig2o8+YSg==
 
 "@types/prettier@2.1.6":
   version "2.1.6"
